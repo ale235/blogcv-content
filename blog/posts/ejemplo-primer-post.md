@@ -3,6 +3,7 @@ title: "Proyecto de E-commerce"
 description: "Una plataforma de comercio electrónico construida con React y Node.js"
 date: "2024-03-20"
 tags: ["React", "Node.js", "MongoDB"]
+published: true
 ---
 
 # 🛍️ Proyecto de E-commerce
@@ -44,3 +45,4 @@ El proyecto ha logrado:
 - 🚀 +10,000 usuarios activos
 - 💰 $500,000 en ventas procesadas
 - ⭐ 99.9% de uptime
+
